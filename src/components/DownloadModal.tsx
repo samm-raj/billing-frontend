@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { X, FileDown, Copy } from 'lucide-react';
 
 interface DownloadModalProps {
